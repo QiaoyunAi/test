@@ -1,0 +1,10 @@
+---
+title: "test_Quartor"
+format: html
+editor: Qiaoyun Ai
+---
+
+```{r}
+x <- 1
+print (x)
+```

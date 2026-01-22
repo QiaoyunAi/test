@@ -1,0 +1,21 @@
+---
+title: "test_RMarkDown"
+author: "Qiaoyun Ai"
+date: "2026-01-22"
+output: html_document
+---
+
+```{r}
+x <- 1
+print (x)
+```
+
+
+``` {r}
+# eval: false
+x <- 3
+print (x)
+```
+
+
+``` {r}
